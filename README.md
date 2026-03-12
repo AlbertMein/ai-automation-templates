@@ -4,12 +4,12 @@ Starter templates and project scaffolds for common AI automation patterns.
 
 ## Templates
 
-- **Agent starter** — Basic LangChain agent with tool use and memory
-- **RAG pipeline** — Document loader + vector store + retriever + chain
-- **API wrapper** — Provider-agnostic LLM client with retry and caching
-- **Multi-agent crew** — CrewAI crew with roles, tasks, and tools
-- **Data extraction** — Scraper + LLM extractor + Pydantic output schema
-- **FastAPI service** — LLM-powered API endpoint with streaming support
+- **Agent starter** - Basic LangChain agent with tool use and memory
+- **RAG pipeline** - Document loader + vector store + retriever + chain
+- **API wrapper** - Provider-agnostic LLM client with retry and caching
+- **Multi-agent crew** - CrewAI crew with roles, tasks, and tools
+- **Data extraction** - Scraper + LLM extractor + Pydantic output schema
+- **FastAPI service** - LLM-powered API endpoint with streaming support
 
 ## Stack
 
